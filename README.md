@@ -74,3 +74,14 @@ A Person Having A **Subscriber Role** Can:-
 1. Shivansh Pratap 
 2. Suryansh Trivedi
 3. Mohit Vishwakarma
+
+
+# Functionalities
+
+1. Verified Users Only
+2. Objective/Descriptive Both
+3. Grading System
+4. Single Attempt
+5. Question And Options Shuffled
+6. Disable Change Of Answers
+7. Disabled Copy/Paste
