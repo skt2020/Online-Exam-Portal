@@ -7,7 +7,8 @@ VoidHacks() 2020 Repository
 
 At First You Can Login Using This [Link](http://return-zero.azurewebsites.net/wp-admin/) With Your Credentials
 
-![loginpage](https://raw.githubusercontent.com/acousticclown/Return-Zero/main/images/loginpage.jpeg)
+
+![loginpage](https://user-images.githubusercontent.com/46789950/101779185-ec06f700-3b1a-11eb-874b-5486297b58fa.jpeg)
 
 ### Prerequisites
 
@@ -18,6 +19,7 @@ Nothng Much Just Internet Connection And Your Credentials
 1. Can **Add Or Remove** Any Member.
 2. Give Them Roles As **Admin, Editor, or Subscriber**
 
+![dash](https://user-images.githubusercontent.com/46789950/101779183-eb6e6080-3b1a-11eb-9c97-08eaaac17da9.jpeg)
 
 ## Editor Role 
 
@@ -26,7 +28,12 @@ A Person Having an **Editor Role** Can :-
 - **Edit Tests**
 - **View Stats Of Students**
 - **Monitor Progress Of A Students**
+
+![quizstat](https://user-images.githubusercontent.com/46789950/101779193-ee695100-3b1a-11eb-978d-e9e0abfcf8ef.jpeg)
+
 - **View Results Of Students**
+
+![quizres](https://user-images.githubusercontent.com/46789950/101779190-edd0ba80-3b1a-11eb-954d-b6dc76c12776.jpeg)
 
 ## Subscriber Role
 A Person Having A **Subscriber Role** Can:-
@@ -38,7 +45,11 @@ A Person Having A **Subscriber Role** Can:-
 
 1. On The Editor's Dashboard One Can Create A Test By Clicking On The **SETUP TEST**
 
+![quiz](https://user-images.githubusercontent.com/46789950/101779189-ed382400-3b1a-11eb-9dcd-8fcd7c7fc56a.jpeg)
+
 2. Then Click On The **Add New** Button
+
+![createquiz](https://user-images.githubusercontent.com/46789950/101779174-e8737000-3b1a-11eb-84dd-3624b60ee8d8.jpeg)
 
 3. Now Give The Test A Name And Continue To Add Questions
 
